@@ -26,7 +26,7 @@
 #         running = False
 # else:
 #     print('No more things to print!')
-from blackjack.card import Card
+from python.blackjack.card import Card
 rank = ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King']
 value = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 SUIT = ['Hearts', 'Spades', 'Clubs', 'Diamonds']

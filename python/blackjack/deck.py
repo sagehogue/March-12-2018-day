@@ -1,5 +1,6 @@
-from blackjack import card
 import random
+
+from python.blackjack import card
 
 
 class Deck:
